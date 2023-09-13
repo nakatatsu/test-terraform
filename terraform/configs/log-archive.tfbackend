@@ -1,0 +1,5 @@
+# versionのterraformブロック用
+profile = "log-archive"
+region  = "ap-northeast-1"
+bucket  = "log-archive-mybook-infra-sample"
+

@@ -1,0 +1,5 @@
+# versionのterraformブロック用
+profile = "development-mybook"
+region  = "ap-northeast-1"
+bucket  = "development-mybook-infra-sample"
+

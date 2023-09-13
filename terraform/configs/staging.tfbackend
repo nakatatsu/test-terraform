@@ -1,0 +1,5 @@
+# versionのterraformブロック用
+profile = "staging-mybook"
+region  = "ap-northeast-1"
+bucket  = "mybook-staging-infra-sample"
+
